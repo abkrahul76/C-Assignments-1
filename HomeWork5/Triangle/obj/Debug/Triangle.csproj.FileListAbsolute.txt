@@ -1,0 +1,6 @@
+M:\practice\HomeWork5\Triangle\bin\Debug\Triangle.exe.config
+M:\practice\HomeWork5\Triangle\bin\Debug\Triangle.exe
+M:\practice\HomeWork5\Triangle\bin\Debug\Triangle.pdb
+M:\practice\HomeWork5\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+M:\practice\HomeWork5\Triangle\obj\Debug\Triangle.exe
+M:\practice\HomeWork5\Triangle\obj\Debug\Triangle.pdb

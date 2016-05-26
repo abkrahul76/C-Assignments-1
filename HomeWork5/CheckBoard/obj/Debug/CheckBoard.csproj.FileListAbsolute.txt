@@ -1,0 +1,6 @@
+M:\practice\HomeWork5\CheckBoard\bin\Debug\CheckBoard.exe.config
+M:\practice\HomeWork5\CheckBoard\bin\Debug\CheckBoard.exe
+M:\practice\HomeWork5\CheckBoard\bin\Debug\CheckBoard.pdb
+M:\practice\HomeWork5\CheckBoard\obj\Debug\CheckBoard.csprojResolveAssemblyReference.cache
+M:\practice\HomeWork5\CheckBoard\obj\Debug\CheckBoard.exe
+M:\practice\HomeWork5\CheckBoard\obj\Debug\CheckBoard.pdb

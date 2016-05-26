@@ -1,0 +1,5 @@
+M:\practice\HomeWork5\Factorial\bin\Debug\Factorial.exe.config
+M:\practice\HomeWork5\Factorial\bin\Debug\Factorial.exe
+M:\practice\HomeWork5\Factorial\bin\Debug\Factorial.pdb
+M:\practice\HomeWork5\Factorial\obj\Debug\Factorial.exe
+M:\practice\HomeWork5\Factorial\obj\Debug\Factorial.pdb

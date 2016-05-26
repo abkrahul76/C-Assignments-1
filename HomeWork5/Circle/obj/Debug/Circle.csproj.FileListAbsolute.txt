@@ -1,0 +1,6 @@
+M:\practice\HomeWork5\Circle\bin\Debug\Circle.exe.config
+M:\practice\HomeWork5\Circle\bin\Debug\Circle.exe
+M:\practice\HomeWork5\Circle\bin\Debug\Circle.pdb
+M:\practice\HomeWork5\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+M:\practice\HomeWork5\Circle\obj\Debug\Circle.exe
+M:\practice\HomeWork5\Circle\obj\Debug\Circle.pdb
