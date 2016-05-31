@@ -1,0 +1,6 @@
+M:\practice\HomeWork6\CalculatingSales\bin\Debug\CalculatingSales.exe.config
+M:\practice\HomeWork6\CalculatingSales\bin\Debug\CalculatingSales.exe
+M:\practice\HomeWork6\CalculatingSales\bin\Debug\CalculatingSales.pdb
+M:\practice\HomeWork6\CalculatingSales\obj\Debug\CalculatingSales.csprojResolveAssemblyReference.cache
+M:\practice\HomeWork6\CalculatingSales\obj\Debug\CalculatingSales.exe
+M:\practice\HomeWork6\CalculatingSales\obj\Debug\CalculatingSales.pdb

@@ -1,0 +1,5 @@
+M:\practice\HomeWork6\DisplayTriangles\bin\Debug\DisplayTriangles.exe.config
+M:\practice\HomeWork6\DisplayTriangles\bin\Debug\DisplayTriangles.exe
+M:\practice\HomeWork6\DisplayTriangles\bin\Debug\DisplayTriangles.pdb
+M:\practice\HomeWork6\DisplayTriangles\obj\Debug\DisplayTriangles.exe
+M:\practice\HomeWork6\DisplayTriangles\obj\Debug\DisplayTriangles.pdb

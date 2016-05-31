@@ -1,0 +1,5 @@
+M:\practice\HomeWork6\Product\bin\Debug\Product.exe.config
+M:\practice\HomeWork6\Product\bin\Debug\Product.exe
+M:\practice\HomeWork6\Product\bin\Debug\Product.pdb
+M:\practice\HomeWork6\Product\obj\Debug\Product.exe
+M:\practice\HomeWork6\Product\obj\Debug\Product.pdb
