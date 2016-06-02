@@ -1,0 +1,6 @@
+M:\practice\Homework7\RoundingToDecimal\bin\Debug\RoundingToDecimal.exe.config
+M:\practice\Homework7\RoundingToDecimal\bin\Debug\RoundingToDecimal.exe
+M:\practice\Homework7\RoundingToDecimal\bin\Debug\RoundingToDecimal.pdb
+M:\practice\Homework7\RoundingToDecimal\obj\Debug\RoundingToDecimal.csprojResolveAssemblyReference.cache
+M:\practice\Homework7\RoundingToDecimal\obj\Debug\RoundingToDecimal.exe
+M:\practice\Homework7\RoundingToDecimal\obj\Debug\RoundingToDecimal.pdb

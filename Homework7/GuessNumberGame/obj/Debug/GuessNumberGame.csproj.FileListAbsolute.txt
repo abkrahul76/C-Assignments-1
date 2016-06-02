@@ -1,0 +1,6 @@
+M:\practice\Homework7\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+M:\practice\Homework7\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+M:\practice\Homework7\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+M:\practice\Homework7\GuessNumberGame\obj\Debug\GuessNumberGame.csprojResolveAssemblyReference.cache
+M:\practice\Homework7\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+M:\practice\Homework7\GuessNumberGame\obj\Debug\GuessNumberGame.pdb

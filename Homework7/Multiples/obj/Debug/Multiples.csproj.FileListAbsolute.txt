@@ -1,0 +1,5 @@
+M:\practice\Homework7\Multiples\bin\Debug\Multiples.exe.config
+M:\practice\Homework7\Multiples\bin\Debug\Multiples.exe
+M:\practice\Homework7\Multiples\bin\Debug\Multiples.pdb
+M:\practice\Homework7\Multiples\obj\Debug\Multiples.exe
+M:\practice\Homework7\Multiples\obj\Debug\Multiples.pdb
