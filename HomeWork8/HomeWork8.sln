@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlineReservation", "AirlineReservation\AirlineReservation.csproj", "{9022D18D-62BC-46D5-883A-94A6ECFE8B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMMachine", "ATMMachine\ATMMachine.csproj", "{F3B144EB-79CA-4890-833F-5ADBA6F631CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9022D18D-62BC-46D5-883A-94A6ECFE8B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9022D18D-62BC-46D5-883A-94A6ECFE8B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9022D18D-62BC-46D5-883A-94A6ECFE8B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9022D18D-62BC-46D5-883A-94A6ECFE8B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B144EB-79CA-4890-833F-5ADBA6F631CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B144EB-79CA-4890-833F-5ADBA6F631CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B144EB-79CA-4890-833F-5ADBA6F631CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B144EB-79CA-4890-833F-5ADBA6F631CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

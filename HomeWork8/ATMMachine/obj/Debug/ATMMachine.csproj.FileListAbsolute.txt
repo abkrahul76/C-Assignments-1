@@ -1,0 +1,6 @@
+c:\users\anupa\onedrive\documents\visual studio 2015\Projects\HomeWork8\ATMMachine\bin\Debug\ATMMachine.exe.config
+c:\users\anupa\onedrive\documents\visual studio 2015\Projects\HomeWork8\ATMMachine\bin\Debug\ATMMachine.exe
+c:\users\anupa\onedrive\documents\visual studio 2015\Projects\HomeWork8\ATMMachine\bin\Debug\ATMMachine.pdb
+c:\users\anupa\onedrive\documents\visual studio 2015\Projects\HomeWork8\ATMMachine\obj\Debug\ATMMachine.csprojResolveAssemblyReference.cache
+c:\users\anupa\onedrive\documents\visual studio 2015\Projects\HomeWork8\ATMMachine\obj\Debug\ATMMachine.exe
+c:\users\anupa\onedrive\documents\visual studio 2015\Projects\HomeWork8\ATMMachine\obj\Debug\ATMMachine.pdb
